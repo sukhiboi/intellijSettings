@@ -1,7 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="compactTreeIndents" value="true" />
     <option name="DISABLE_MNEMONICS" value="false" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />

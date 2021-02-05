@@ -44,6 +44,7 @@
       </map>
     </option>
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="TOOLTIPS_DELAY_MS" value="10" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_BLOCK_CURSOR" value="true" />

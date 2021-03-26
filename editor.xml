@@ -11,7 +11,7 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="1.4" />
     <option name="USE_LIGATURES" value="true" />
@@ -51,6 +51,10 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAnonymousClasses" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />

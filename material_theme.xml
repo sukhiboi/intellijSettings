@@ -1,9 +1,0 @@
-<application>
-  <component name="MaterialThemeConfig">
-    <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
-    <option name="userId" value="61c65eb8:17700bf0097:-8000" />
-    <option name="version" value="5.5.0" />
-  </component>
-</application>
